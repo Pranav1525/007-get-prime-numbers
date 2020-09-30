@@ -7,6 +7,7 @@ With a given integer number n, write a function to get array of all prime number
 1. Number should be greater than 1.
 2. Return array of all prime numbers between 1 to n.
 3. Function should pass all test cases.
+4.you can use for or while loop.
 
 
 **Instructions:**
